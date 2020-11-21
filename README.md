@@ -49,5 +49,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/Tails%20-%2356347C.svg?&style=for-the-badge&logo=Tails&logoColor=white" />
+  <a href="https://tails.boum.org/">
+    <img src="https://img.shields.io/badge/Tails%20-%2356347C.svg?&style=for-the-badge&logo=Tails&logoColor=white" />
+  </a>
 </p>
