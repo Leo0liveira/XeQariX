@@ -19,6 +19,9 @@
   <a href="https://www.reddit.com/user/XeQariX/">
     <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
+  <a href="https://stackoverflow.com/users/14683627/xeqarix">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
