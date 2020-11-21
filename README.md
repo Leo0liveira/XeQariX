@@ -47,3 +47,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Tails%20-%2356347C.svg?&style=for-the-badge&logo=Tails&logoColor=white" />
+</p>
