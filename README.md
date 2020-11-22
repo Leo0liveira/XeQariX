@@ -52,4 +52,7 @@
   <a href="https://tails.boum.org/">
     <img src="https://img.shields.io/badge/Tails%20-%2356347C.svg?&style=for-the-badge&logo=Tails&logoColor=white" />
   </a>
+  <a href="https://www.torproject.org/">
+    <img src="https://img.shields.io/badge/Tor%20-%237E4798.svg?&style=for-the-badge&logo=Tor&logoColor=white" />
+  </a>
 </p>
