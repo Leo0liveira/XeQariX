@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/14683627/xeqarix">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white" />
   </a>
 </p>
 
